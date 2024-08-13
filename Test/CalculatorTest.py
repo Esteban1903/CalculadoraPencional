@@ -29,7 +29,7 @@ class PensionTest(unittest.TestCase):
         parametros.edad_pension_total = 65
         sexo = "f"
         estado_civil = "c"
-        hereda_pension = "n"
+
 
     @staticmethod
     def testSemanasLaboradasMenoresACero():
